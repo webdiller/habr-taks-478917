@@ -177,6 +177,7 @@ html {
 .error-page__title {
   margin-bottom: 30px;
   font-weight: 600;
+  font-style: italic;
 }
 
 .error-page__img {
